@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="mais.webapi.AppHost/mais.webapi.AppHost.csproj" />
+  <Project Path="mais.webapi.ServiceDefaults/mais.webapi.ServiceDefaults.csproj" />
+  <Project Path="mais/mais.csproj" />
+</Solution>
